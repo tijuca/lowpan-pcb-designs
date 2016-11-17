@@ -1,0 +1,9 @@
+Reference, Value, Footprint, Datasheet
+IC1,deRFmega128-22M10,deRFmega:A-M10,
+P1,SV1,pin-header-mod:Pin_Header_Straight_1x12,
+P3,SV3,Pin_Headers:Pin_Header_Straight_1x06,
+P4,Antenna,Pin_Headers:Pin_Header_Straight_1x01,
+R1,300,Resistors_SMD:R_0603,
+D1,LED,LEDs:LED_0603,
+P2,SV2,Pin_Headers:Pin_Header_Straight_1x13,
+C1,100n,Capacitors_SMD:C_0603,
