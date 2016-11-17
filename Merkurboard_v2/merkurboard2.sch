@@ -30,6 +30,9 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:deRFmodules
+LIBS:video
+LIBS:relays
+LIBS:w_relay
 LIBS:merkurboard2-cache
 EELAYER 25 0
 EELAYER END
@@ -41,8 +44,8 @@ Date "2016-03-05"
 Rev "1"
 Comp ""
 Comment1 ""
-Comment2 "The original Merkurboard was developed by OSDomotics."
-Comment3 "http://osdwiki.open-entry.com/doku.php/de:projekte:merkur"
+Comment2 "http://osdwiki.open-entry.com/doku.php/de:projekte:merkur\\nhttps://hackerspaceshop.com/products/merkurboard?variant=10485177157"
+Comment3 "The original Merkurboard was developed by OSDomotics."
 Comment4 "6LoWPAN board based on deRFmega128RF1A"
 $EndDescr
 $Comp
